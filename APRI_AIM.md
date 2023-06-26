@@ -1,0 +1,18 @@
+Hepatitis C is an infectious disease caused by the hepatitis C virus (HCV). It can be transmitted by contact with contaminated blood, such as sharing needles, syringes and other objects for drug use, personal care, tattooing or piercing. Hepatitis C can cause acute or chronic infection. Approximately 30% (15–45%) of infected persons present spontaneous viral clearance within 6 months of infection without any treatment. This virus 
+can be diagnosed by blood tests that detect the presence of anti-HCV antibodies and viral load (HCV-RNA). The treatment of hepatitis C is done with drug called direct-acting antivirals (DAA), which have cure rates of over 95% and are usually taken for 12 to 24 weeks, depending on the absence or presence of cirrhosis. 
+
+Sources:
+
+[https://en.wikipedia.org/wiki/Hepatitis_C]
+[https://www.who.int/news-room/fact-sheets/detail/hepatitis-c]
+ 
+Know the stage of liver fibrosis is essential in managing chronic hepatitis C patients (1,2). A model created by Chun-Tao Wai et al (3), was implemented in ApriGul. It uses an Index in Predicting Liver Fibrosis named APRI (aspartate aminotransferase to platelet count ratio index). View a formula:
+           
+            AST level (/ULN)
+APRI = ————————————————————————— X 100.
+        Platelet counts (10⁹/L)
+
+
+1. Gebo KA, Herlong HF, Torbenson MS, Jenckes MW, Chander G, Ghanem KG, El-Kamary SS, et al. Role of liver biopsy in management of chronic hepatitis C: a systematic review. HEPATOLOGY 2002;36:S161-S172.
+2. National Institutes of Health Consensus Development Conference Statement: Management of hepatitis C: 2002—June 10-12, 2002. HEPATOLOGY 2002;36:S3-S20
+3. Chun-Tao Wai, Joel K. Greenson, Robert J. Fontana, John D. Kalbfleisch, Jorge A. Marrero, Hari S. Conjeevaram, and Anna S.-F. Lok. A Simple Noninvasive Index Can Predict Both Significant Fibrosis and Cirrhosis in Patients With Chronic Hepatitis C. HEPATOLOGY, Vol. 38, No. 2, 2003
